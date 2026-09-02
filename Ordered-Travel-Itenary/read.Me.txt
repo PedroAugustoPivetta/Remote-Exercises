@@ -17,8 +17,6 @@ Melbourne --> 877
 Perth --> 3923
 
 You'll create a LinkedList ordered by the distance from the starting point, in this case, Sydney.
-Sydney should be the first element in your list.
-You don't want to allow duplicate places to be in your list for this data set.
 In addition, you'll create an interactive program with the following menu item options.
 
 AVAILABLE ACTIONS (SELECT WORD OR LETTER)

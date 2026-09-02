@@ -1,17 +1,17 @@
-public class Place {
+public class Town {
     private String name;
-    private Double distance;
+    private int distance;
 
-    public Place(String name, double distance){
+    public Town(String name, int distance){
         this.name = name;
         this.distance = distance;
     }
 
     public String getName(){
-        return this.name;
+        return  this.name;
     }
 
-    public double getDistance(){
+    public int getDistance(){
         return this.distance;
     }
 }
